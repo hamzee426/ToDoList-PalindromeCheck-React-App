@@ -1,1 +1,0 @@
-# ToDoList-PalindromeCheck-React-App
