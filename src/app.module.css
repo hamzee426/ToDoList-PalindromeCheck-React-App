@@ -1,0 +1,21 @@
+
+.title{
+    margin-top: 20px;
+    height: 50px;
+    width: 280px;
+}
+
+.textarea{
+    height: 180px;
+    width: 300px;
+}
+
+.ul{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.li{
+    user-select: none;
+    margin-top: 30px;
+}
